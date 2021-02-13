@@ -1,0 +1,1 @@
+<h2>Bu dosyayı düzenleyin veya ayrı bir PHP dosyası oluşturun aynı dizinde. &lth2> elementi içerisinde PHP etiketi açarak "Yavru köpekleri seviyorum." mesajını yazdırın.</h2>

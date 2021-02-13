@@ -1,0 +1,1 @@
+<h2>aktivite5-fix.php dosyadaki hataları düzeltin.</h2>
