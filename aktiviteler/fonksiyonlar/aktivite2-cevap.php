@@ -1,0 +1,1 @@
+<?php echo strtolower(strrev('!akirah ralnavyah licve')); ?>
